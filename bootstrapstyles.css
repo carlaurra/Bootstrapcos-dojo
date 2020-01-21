@@ -1,0 +1,66 @@
+@media (min-width: 576px) {
+    ...
+}
+
+@media (min-width: 768px) {
+    ...
+}
+
+@media (min-width: 992px) {
+    ...
+}
+
+@media (min-width: 1200px) {
+    ...
+}
+
+
+.image {
+    background-image: url(https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/business-01.jpg);
+}
+
+.shopify {
+    border: 2px solid #fff;
+    width: 6rem;
+}
+
+.navbar-collapse {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
+.jumbotron.jumbotron-fluid{
+    background-image: url("https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/business-14.jpg"); 
+    height: 448.6px; 
+    transform: translate(0px, 90.9px);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.my-hr{
+    border: 2px solid #009;
+    width: 6rem;
+    margin: 0 0 2rem 0;
+
+}
+
+.fb-cdn{
+    font-size: 2rem;
+}
+
+.width-10{
+    width: 50px!important;
+    text-align: center;
+}
+
+.cualquiera{
+    display: flex;
+    justify-content: flex-end;
+    
+    
+}
